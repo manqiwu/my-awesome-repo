@@ -127,8 +127,8 @@
     "params": [
       {
         "name": "id",
-        "type": "string",
-        "required": 0,
+        "type": "number",
+        "required": 1,
         "default": "",
         "description": ""
       }
