@@ -98,7 +98,7 @@
       {
         "name": "id",
         "type": "string",
-        "required": 0,
+        "required": 1,
         "default": "",
         "description": ""
       }

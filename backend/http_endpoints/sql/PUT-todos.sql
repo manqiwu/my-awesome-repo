@@ -1,3 +1,4 @@
+
 USE tasktracker;
 UPDATE `todos` SET 
 `status` = IF(length(${status})>0,${status},`status`),
